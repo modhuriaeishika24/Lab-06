@@ -43,4 +43,7 @@
     background-color: blueviolet;
     color: white;
 }
-
+.sticky-box{
+    position: sticky;
+    top: 0px;
+}

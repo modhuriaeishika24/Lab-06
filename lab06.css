@@ -61,3 +61,17 @@
     background-image: url(image.png);
     background-repeat: repeat-x and repeat-y;
 }
+.box1{
+    z-index: -1;
+    border-style: 4px solid black;
+    height: 100px;
+    width: 150px;
+    background-color: darkcyan;
+}
+.box2{
+    z-index: -2;
+    border-style: 4px solid black;
+    height: 100px;
+    width: 150px;
+    background-color: darkblue;
+}

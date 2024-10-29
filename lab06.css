@@ -2,4 +2,19 @@
     position: static;
     background-color: green;
     color: blanchedalmond;
+    border: 2px;
+    border-style: groove;
+    height: 100px;
+    width: 150px;
+}
+.relative-box{
+    position: relative;
+    background-color: chocolate;
+    color: beige;
+    left: 30px;
+    bottom: 20px;
+    border: 2px;
+    border-style: groove;
+    height: 100px;
+    width: 150px;
 }

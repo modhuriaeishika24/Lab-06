@@ -46,4 +46,18 @@
 .sticky-box{
     position: sticky;
     top: 0px;
+
+}
+.background-image{
+    height: 250px;
+    width: 500px;
+    border-style: groove;
+    background-image: url(image.png);
+}
+.background-image-repeat{
+    height: 1000px;
+    width: 450px;
+    border-style: 4px solid black;
+    background-image: url(image.png);
+    background-repeat: repeat-x and repeat-y;
 }

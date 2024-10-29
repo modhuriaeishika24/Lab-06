@@ -18,3 +18,20 @@
     height: 100px;
     width: 150px;
 }
+.container{
+    height: 400px;
+    width: 500px;
+    border: 4px;
+    border-style: groove;
+}
+.absolute-box{
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    border-style: groove;
+    height: 100px;
+    width: 150px;
+    background-color: aquamarine;
+
+}
+
